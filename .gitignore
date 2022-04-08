@@ -37,3 +37,16 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
+
+# Readme.Rmd
+README.Rmd
+
+# Template, Draft and Raw folders
+analysis/_draft
+analysis/_raw
+analysis/_templates
+
+# Paper
+analysis/school-distribution.Rmd
+analysis/~$*.docx
